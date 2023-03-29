@@ -27,8 +27,8 @@ To use the app, follow these steps:
 1. Open the app in your browser
 2. Click on any folder to view its notes
 3. Click on any note to edit or delete it
-4. Click the "New Note" button to create a new note
-5. Fill in the note's details and click the "Save" button
+4. Fill in the note's details and click the "Submit" button
+5. Notes can also be assigned per folder by selecting on the dropdown menu
 
 ## Contributing
 
