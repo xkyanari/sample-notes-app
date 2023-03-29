@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     if (isset($error)) {
         echo "<script>alert('$error');</script>";
     } else {
-        header('Location: ../widget.main.php?folder_id=' . $folder_id);
+        header('Location: ../index.php?folder_id=' . $folder_id);
         exit();
     }
 }
