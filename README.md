@@ -2,6 +2,8 @@
 
 This is a responsive webpage that behaves somewhat similar to iOS Notes app but in Dark mode. The webpage has three responsive columns: Folders, Notes and the form itself. Folders and Notes are self-explanatory while the form is where you can load and create notes. Since the page is responsive, it fits even smaller resolutions where you can focus on the form. The app supports MYSQL 8, PHP with MySQLi extension and JS.
 
+The form also considers if you want to integrate it with Kayako or any system. You will have to have a way to get the list of email addresses via API or any sort. This can be updated in js/script.js.
+
 ## Table of Contents
 
 - [Installation](#installation)
