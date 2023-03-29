@@ -1,6 +1,6 @@
 # Sample Notes App
 
-This is a responsive webpage that behaves somewhat similar to iOS Notes app but in Dark mode. The webpage has three responsive columns: Folders, Notes and the form itself. Folders and Notes are self-explanatory while the form is where you can load and create notes. Since the page is responsive, it fits even smaller resolutions where you can focus on the form. The database that comes with it is in MYSQL 8, PHP and JS.
+This is a responsive webpage that behaves somewhat similar to iOS Notes app but in Dark mode. The webpage has three responsive columns: Folders, Notes and the form itself. Folders and Notes are self-explanatory while the form is where you can load and create notes. Since the page is responsive, it fits even smaller resolutions where you can focus on the form. The app supports MYSQL 8, PHP with MySQLi extension and JS.
 
 ## Table of Contents
 
