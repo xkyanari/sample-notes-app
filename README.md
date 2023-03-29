@@ -4,6 +4,8 @@ This is a responsive webpage that behaves somewhat similar to iOS Notes app but 
 
 The form also considers if you want to integrate it with Kayako or any system. You will have to have a way to get the list of email addresses via API or any sort. This can be updated in js/script.js.
 
+![image](https://user-images.githubusercontent.com/11563770/228686005-a9ee64d9-ffa5-45c8-a4f8-f0e4bc3e73cb.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
